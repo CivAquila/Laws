@@ -42,6 +42,10 @@ Taking another's property without explicit or implicit permission.
 
 Taking another's property without explicit or implicit permission with result in damages estimated at a significantly large value.
 
+#####Building Code Violation (1):
+
+Violating the Building Codes for a zone, which can be found on the /r/CivAquila sidebar.
+
 #####Fraud(1):
 
 Knowingly claiming ownership of land or items that belong to another such that the claim causes the use of Aquilan resources to sort out the owner, or use of misleading tactics to extort land or items from another.
