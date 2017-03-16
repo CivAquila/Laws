@@ -1,13 +1,13 @@
-﻿# Constitution
-Constitution of the Nation of Aquila
+# Constitution
 
+Constitution of the Nation of Aquila
 
 #### Preamble
 
 We the people of Aquila, in order to form a more perfect union, establish justice, insure domestic tranquility, provide for the common defense, promote the general welfare, and secure the blessing of liberty to ourselves and our posterity, do ordain and establish this Constitution for the nation of Aquila.
 
-
 _______________________________________________________________________________________________
+
 #### Article I - Citizenship
 
 ##### Section 1 - Types of Citizens
@@ -28,8 +28,6 @@ At such a time that a citizen fails to participate in a monthly census, they rel
 
 Citizens of Aquila have the right to participate in the Legislature of Aquila, and vote in elections if they have registered.  They also the right to purchase property in private Aquilan districts.  Citizens have the right to make use of state owned services and facilities, as well as access to state-owned resources.
 
-
-
 ##### Section 4 - Rights of a Resident
 
 Residents have the right to become a citizen, provided they meet all the requirements. As landowners in Aquila, they have the right to use or sell that property to Aquilans as well as non-Aquilans, so long as the Executive Council does not object.
@@ -38,8 +36,8 @@ Residents have the right to become a citizen, provided they meet all the require
 
 On the first of every month, the Executive Council must create a post on /r/CivAquila with the format: ‘[Census] Month, Year’.  Players will reply to this thread with their in-game name, in order to have their Citizenship noted.  
 
-
 _______________________________________________________________________________________________
+
 #### Article II - The Legislative Branch
 
 ##### Section 1 - The Legislature
@@ -98,8 +96,8 @@ The Legislature shall not have the power to directly remove the rights, freedoms
 
 A vote of impeachment cannot be held within 48 hours of a previous vote of impeachment.
 
-
 _______________________________________________________________________________________________
+
 #### Article III - The Executive Branch
 
 ##### Section 1 - The Executive Council
@@ -115,7 +113,6 @@ To elect a new member of the Executive Council, votes shall be cast on a ballot 
 If modernballots is unavailable and an election must be held, the Chief Justice shall make a post on the subreddit with the tag ‘[EC Election]’ where they present all nominees. From this point citizens eligible to vote may comment with their choice of candidate and the candidate with the most votes will win.
 
 In situations where multiple Vacancies exist simultaneously on the Executive Council, the Legislature shall elect the Councilors by the following procedure: The Chief Justice shall create a ballot on modernballots such that enough candidates are chosen to fill all vacancies using proportional ordering. When a new councilor fills a vacancy, they shall leave office when the previous councilor was supposed to. In the case of multiple vacancies, the candidate with the most votes will take the vacant seat on the council with the longest remaining amount of time. 
-
 
 The Legislature shall only elect Councilors from within its own ranks such that all Counselors will meet the same requirements as members of the Legislature.
 
@@ -169,8 +166,8 @@ Conduct unreasonable searches and seizures without issued warrants, upon probabl
 
 Councilors shall be removed from office on impeachment for, and conviction of, inactivity, misuse of power, or high crimes.
 
-
 _______________________________________________________________________________________________
+
 #### Article IV - The Judicial Branch
 
 ##### Section 1 - Judicial Powers
@@ -209,16 +206,16 @@ The Chief Justice shall receive no compensation from the Treasury of Aquila for 
 
 The Chief Justice shall be removed from Office on impeachment for, and conviction of, inactivity, misuse of power, or high crimes.
 
-
 _______________________________________________________________________________________________
+
 #### Article VI - Supremacy
 
 This Constitution, and the laws of Aquila which shall be made in pursuance thereof; and all treaties made, or which shall be made, under the authority of Aquila, shall be the supreme law of the land.
 
 The members of the Legislature, the Executive Councilors, and all Judicial Officers shall be bound to support this Constitution.
 
-
 _______________________________________________________________________________________________
+
 #### Article VII - Ratification
 
 The ratification of this Constitution shall require a two thirds majority vote of the Citizens of Aquila, with a minimum of five votes cast.
